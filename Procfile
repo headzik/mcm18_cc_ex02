@@ -1,0 +1,1 @@
+web: java -jar target/e-car-renting-0815-1.0.jar

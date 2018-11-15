@@ -1,0 +1,5 @@
+{
+  "name": "e car rental",
+  "description": "description",
+  "addons": [ "heroku-postgresql" ]
+}
